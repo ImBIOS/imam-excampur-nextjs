@@ -2,14 +2,7 @@
   "base_url": "https://imam.excampur.com",
   "site_title": "Blog Imam",
   "site_description": "Tulisan kajian singkat dari yufid setiap hari",
-  "site_keywords": [
-    "imam",
-    "imamuzzaki",
-    "imamuzzaki abu salam",
-    "excampur",
-    "yufid",
-    "kajian singkat"
-  ],
+  "site_keywords": [],
   "posts_per_page": 5,
   "twitter_account": "@abusalam16_",
   "github_account": "ImBIOS"
